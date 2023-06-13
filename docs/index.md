@@ -1,17 +1,35 @@
-# 首页
+# 欢迎来到SAVIA的外装代脑！
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是分享SAVIA珍藏多年的学习资料的地方，有可能会发一些个人的东西
 
-## Commands
+## 什么是外装代脑？
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 外装代脑（Exterior）来自漫画及其改编动画《某科学的超电磁炮》，是才人工房研究出的，装有由食蜂操祈大脑皮层培养出的巨大大脑的装置，可以大大提升食蜂的能力。（摘自[魔法禁书目录中文维基](https://toaru.huijiwiki.com/wiki/%E5%A4%96%E8%A3%85%E4%BB%A3%E8%84%91)）
 
-## Project layout
+!!! info "冷知识"
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    《某科学的超电磁炮》是《魔法禁书目录》的外传，bilibili的名字以及许多设定都来自这个系列
+
+    
+    
+
+* 简而言之就是食蜂额外拥有的外部大脑，可以由她操纵发挥更强的能力。如果我有外装代脑，我一定会把我学过的东西都装进去，需要的时候直接读取
+
+## 为什么要做这个Exterior？
+
+本科专业，尤其是我们化工这些传统工科，受一些传统思想的影响，大家学习的时候都是闭门造车。实际上，自己的理解是能够帮助他人更高效率地掌握知识与技能的，同时也反过来提高自己。所以，我一直认为这种“捷径”是可以走且应当走的，我也不想让后面的学弟学妹和我一样重复走弯路，找不到课程正确的打开方式。我想趁自己本科四年学习的知识还没忘完，尽可能地把脑中还记得的东西迁移到另一个载体上，铺一条好走的路。
+
+一开始我的笔记整理都是发到群里的，虽然效率还行，但就怕一代代失传了。自学计算机知识的时候看到[咸鱼暄的代码空间](https://xuan-insr.github.io/)和[Isshiki修's Notebook](https://note.isshikih.top/)，狠狠地心动了！这就是我一直想要实现的形式！好在上学期上到一半汽修的数院ds课逼自己学会了git，技术上还算过关。在配置了一晚上python，复习了git和github的使用之后，这个site终于初显雏形！
+
+
+## Exterior会包含哪些内容？
+
+尽可能多的化学工程与工艺培养方案上的硬核课程内容，希望从基础的数理化到化工专业课，应有尽有
+
+基本上会是课程相关信息，学习方法及资源推荐，我的笔记，也会有一些习题资料整理（因为版权原因，某些课程以及习题内容不会出现）
+
+内容可能会超出课程考核要求的范围，因为我总是不自觉地多学东西
+
+因为兴趣原因，最近在学计算机底层相关的知识，包括计算机系统、操作系统、计算机网络，将来也会有一些相关笔记
+
+还会有python和机器学习相关的内容，因为科研要用……
