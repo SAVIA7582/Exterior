@@ -1,0 +1,15 @@
+site_name: SAVIA的外装代脑
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+  language: zh
+  palette: 
+    primary: light green
+
+
+
+    
+
