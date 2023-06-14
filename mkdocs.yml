@@ -30,6 +30,8 @@ nav:
     - 化学/index.md
     - 有机化学:
       - 化学/有机化学/index.md
+      - 第一部分 有机化学基本理论:
+        - 化学/有机化学/专题4.md
     - 物理化学:
       - 化学/物理化学/index.md
   - 化工:
@@ -134,6 +136,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-
+plugins:
+  - glightbox
     
 
