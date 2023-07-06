@@ -8,18 +8,8 @@ nav:
       - 数学/复变函数与积分变换/1 复数.md
       - 数学/复变函数与积分变换/2 解析函数.md
       - 数学/复变函数与积分变换/3 复变函数的积分.md
-    - 线性代数:
-      - 数学/线性代数/index.md
   - 物理 & 工程:
     - 物理与工程/index.md
-    - 大学物理:
-      - 物理与工程/大学物理/index.md
-    - 工程图学:
-      - 物理与工程/工程图学/index.md
-      - 第 1 部分 基本投影:
-      - 第 2 部分 视图综合:
-      - 第 3 部分 结构与零件:
-      - 第 4 部分 零件图:
     - 电工电子学及实验:
       - 物理与工程/电工电子学及实验/index.md
       - 第 1 部分 电路原理:
@@ -38,16 +28,20 @@ nav:
         - 化学/有机化学/专题1.md
         - 化学/有机化学/专题4.md
         - 化学/有机化学/专题5.md
-    - 物理化学:
-      - 化学/物理化学/index.md
   - 化工:
     - 化工/index.md
-    - 化工原理:
-      - 化工/化工原理/index.md
     - 化学反应工程:
       - 化工/化学反应工程/index.md
-  - 计算机:
-    - 计算机/index.md
+      - PART 1 理想反应器 均相反应:
+        - 化工/化学反应工程/PART 1/index.md
+      - PART 2 非理想流动:
+        - 化工/化学反应工程/PART 2/index.md
+      - PART 3 & 4 非均相反应:
+        - 化工/化学反应工程/PART 3/index.md
+      - PART 5 生化反应:
+        - 化工/化学反应工程/PART 5/index.md
+
+
 
 
 
@@ -58,12 +52,12 @@ site_name: SAVIA的外装代脑
 theme:
   name: material
   features:
-    - navigation.tabs 
+    - navigation.tabs
     - navigation.tracking # 地址栏中的 URL 会随当前位置变化为对应小节的 URL
     - navigation.indexes # 将 index 页面直接附到小节名上
     - navigation.top # 回到顶部按钮
     - toc.follow # toc 跟随
-    #- navigation.sections 
+    #- navigation.sections
     - toc.follow
     - navigation.top
   language: 'zh'
