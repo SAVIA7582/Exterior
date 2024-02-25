@@ -118,6 +118,17 @@ nav:
       - Chemistry/Inorganic/index.md
       - 化学原理:
         - Chemistry/Inorganic/0/index.md
+      - 第 1 章 热化学:
+        - Chemistry/Inorganic/1/index.md
+      - 第 2 章 反应方向、速率与限度:
+        - Chemistry/Inorganic/2/index.md
+      - 第 3 章 酸碱反应与沉淀反应:
+        - Chemistry/Inorganic/3/index.md
+      - 第 4 章 氧化还原与电化学:
+        - Chemistry/Inorganic/4/index.md
+      - 第 5 章 原子结构:
+        - Chemistry/Inorganic/5/index.md
+        
 
   - 化工:
     - 化工/index.md
