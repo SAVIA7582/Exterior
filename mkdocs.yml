@@ -26,72 +26,78 @@ nav:
       - 考点总结:
         - Math/Complex/考点总结/index.md
 
-  - 物理 & 工程:
-    - 物理与工程/index.md
-
-    - 工程图学:
-      - 物理与工程/工程图学/index.md
-      - 投影理论:
-        - 物理与工程/工程图学/第一部分/index.md
-      - 辅导讲义:
-        - 物理与工程/工程图学/辅导讲义/index.md
-      - 神秘文件:
-        - 物理与工程/工程图学/神秘文件/index.md
-
+  - 物理:
+    - Physics/index.md
     - 大学物理Ⅰ:
-      - 物理与工程/物理/index.md
+      - Physics/1/index.md
       - 第 1 章 质点运动学:
-        - 物理与工程/物理/1/index.md
+        - Physics/1/1/index.md
       - 第 2 章 质点动力学:
-        - 物理与工程/物理/2/index.md  
+        - Physics/1/2/index.md  
       - 第 3 章 刚体力学:
-        - 物理与工程/物理/3/index.md  
+        - Physics/1/3/index.md  
       - 第 4 章 狭义相对论:
-        - 物理与工程/物理/4/index.md
+        - Physics/1/4/index.md
 
     - 大学物理Ⅱ:
-      - 物理与工程/大学物理二/index.md
+      - Physics/2/index.md
       - 第 9 章 真空中的静电场:
-        - 物理与工程/大学物理二/第 9 章 真空中的静电场/index.md
+        - Physics/2/第 9 章 真空中的静电场/index.md
       - 第 10 章 静电场中的导体和电介质:
-        - 物理与工程/大学物理二/第 10 章 静电场中的导体和电介质/index.md
+        - Physics/2/第 10 章 静电场中的导体和电介质/index.md
       - 第 11 章 稳恒电流:
-        - 物理与工程/大学物理二/第 11 章 稳恒电流/index.md
+        - Physics/2/第 11 章 稳恒电流/index.md
       - 第 12 章 稳恒磁场:
-        - 物理与工程/大学物理二/第 12 章 稳恒磁场/index.md
+        - Physics/2/第 12 章 稳恒磁场/index.md
       - 第 13 章 磁场中的磁介质:
-        - 物理与工程/大学物理二/第 13 章 磁场中的磁介质/index.md
+        - Physics/2/第 13 章 磁场中的磁介质/index.md
       - 第 14 章 电磁感应:
-        - 物理与工程/大学物理二/第 14 章 电磁感应/index.md
+        - Physics/2/第 14 章 电磁感应/index.md
       - 第 15 章 电磁场与电磁波:
-        - 物理与工程/大学物理二/第 15 章 电磁场与电磁波/index.md
+        - Physics/2/第 15 章 电磁场与电磁波/index.md
       - 第 16 章 光的干涉:
-        - 物理与工程/大学物理二/第 16 章 光的干涉/index.md
+        - Physics/2/第 16 章 光的干涉/index.md
       - 第 17 章 光的衍射:
-        - 物理与工程/大学物理二/第 17 章 光的衍射/index.md
+        - Physics/2/第 17 章 光的衍射/index.md
       - 第 18 章 光的偏振:
-        - 物理与工程/大学物理二/第 18 章 光的偏振/index.md
+        - Physics/2/第 18 章 光的偏振/index.md
       - 第 19 章 几何光学:
-        - 物理与工程/大学物理二/第 19 章 几何光学/index.md
+        - Physics/2/第 19 章 几何光学/index.md
       - 第 20 章 电磁辐射量子性:
-        - 物理与工程/大学物理二/第 20 章 电磁辐射量子性/index.md
+        - Physics/2/第 20 章 电磁辐射量子性/index.md
       - 第 21 章 量子力学简介:
-        - 物理与工程/大学物理二/第 21 章 量子力学简介/index.md
+        - Physics/2/第 21 章 量子力学简介/index.md
       - 第 22 章 氢原子结构:
-        - 物理与工程/大学物理二/第 22 章 氢原子结构/index.md
+        - Physics/2/第 22 章 氢原子结构/index.md
       - 第 23 章 激光和固体能带:
-        - 物理与工程/大学物理二/第 23 章 激光和固体能带/index.md
+        - Physics/2/第 23 章 激光和固体能带/index.md
 
+  - 工程:
+    - Engineering/index.md
+
+    - 工程图学:
+      - Engineering/工程图学/index.md
+      - 投影理论:
+        - Engineering/工程图学/第一部分/index.md
+      - 辅导讲义:
+        - Engineering/工程图学/辅导讲义/index.md
+      - 神秘文件:
+        - Engineering/工程图学/神秘文件/index.md
+    
     - 电工电子学及实验:
-      - 物理与工程/电工电子学及实验/index.md
+      - Engineering/EE/index.md
       - 第 1 部分 电路原理:
-        - 物理与工程/电工电子学及实验/PART1/index.md
+        - Engineering/EE/1/index.md
+        - 第 1 节 电路基本概念与定律:
+          - Engineering/EE/1/1-1/index.md
       - 第 2 部分 模拟电子技术:
-        - 物理与工程/电工电子学及实验/PART2/index.md
+        - Engineering/EE/2/index.md
+        - 第 1 节 常用半导体器件:
+          - Engineering/EE/2/2-1/index.md
       - 第 3 部分 数字电子技术:
-        - 物理与工程/电工电子学及实验/PART3/index.md
+        - Engineering/EE/3/index.md
       - 第 4 部分 电机学及控制:
-        - 物理与工程/电工电子学及实验/PART4/index.md
+        - Engineering/EE/4/index.md
 
   - 化学:
     - Chemistry/index.md
@@ -128,6 +134,12 @@ nav:
         - Chemistry/Inorganic/4/index.md
       - 第 5 章 原子结构:
         - Chemistry/Inorganic/5/index.md
+      - 第 6 章 分子结构:
+        - Chemistry/Inorganic/6/index.md
+      - 第 7 章 固体结构:
+        - Chemistry/Inorganic/7/index.md
+      - 第 8 章 配位化合物:
+        - Chemistry/Inorganic/8/index.md  
         
 
   - 化工:
