@@ -3,7 +3,6 @@ nav:
     - index.md
     - 往期更新:
       - 往期更新.md
-
   - 数学:
     - Math/index.md
 
@@ -73,35 +72,35 @@ nav:
     - 大学物理Ⅱ:
       - Physics/2/index.md
       - 第 9 章 真空中的静电场:
-        - Physics/2/第 9 章 真空中的静电场/index.md
+        - Physics/2/9/index.md
       - 第 10 章 静电场中的导体和电介质:
-        - Physics/2/第 10 章 静电场中的导体和电介质/index.md
+        - Physics/2/10/index.md
       - 第 11 章 稳恒电流:
-        - Physics/2/第 11 章 稳恒电流/index.md
+        - Physics/2/11/index.md
       - 第 12 章 稳恒磁场:
-        - Physics/2/第 12 章 稳恒磁场/index.md
+        - Physics/2/12/index.md
       - 第 13 章 磁场中的磁介质:
-        - Physics/2/第 13 章 磁场中的磁介质/index.md
+        - Physics/2/13/index.md
       - 第 14 章 电磁感应:
-        - Physics/2/第 14 章 电磁感应/index.md
+        - Physics/2/14/index.md
       - 第 15 章 电磁场与电磁波:
-        - Physics/2/第 15 章 电磁场与电磁波/index.md
+        - Physics/2/15/index.md
       - 第 16 章 光的干涉:
-        - Physics/2/第 16 章 光的干涉/index.md
+        - Physics/2/16/index.md
       - 第 17 章 光的衍射:
-        - Physics/2/第 17 章 光的衍射/index.md
+        - Physics/2/17/index.md
       - 第 18 章 光的偏振:
-        - Physics/2/第 18 章 光的偏振/index.md
+        - Physics/2/18/index.md
       - 第 19 章 几何光学:
-        - Physics/2/第 19 章 几何光学/index.md
+        - Physics/2/19/index.md
       - 第 20 章 电磁辐射量子性:
-        - Physics/2/第 20 章 电磁辐射量子性/index.md
+        - Physics/2/20/index.md
       - 第 21 章 量子力学简介:
-        - Physics/2/第 21 章 量子力学简介/index.md
+        - Physics/2/21/index.md
       - 第 22 章 氢原子结构:
-        - Physics/2/第 22 章 氢原子结构/index.md
+        - Physics/2/22/index.md
       - 第 23 章 激光和固体能带:
-        - Physics/2/第 23 章 激光和固体能带/index.md
+        - Physics/2/23/index.md
 
   - 工程:
     - Engineering/index.md
@@ -237,7 +236,7 @@ theme:
         name: Switch to light mode
   font:
     text: Noto Serif SC # Roboto
-    code: Roboto Mono
+    code: Roboto Mono  
 
 markdown_extensions:
   - toc:
@@ -285,14 +284,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-
-
 extra_javascript:
   - Javascript/mathjax.js
-  - Javascript/script.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - assets/js/pdf.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
-
-    
-
