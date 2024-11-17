@@ -26,6 +26,27 @@ nav:
       - 考点总结:
         - Math/Complex/考点总结/index.md
 
+    - 概率论与数理统计:
+      - 第 0 讲 概念总结:
+        - Math/P&S/0/index.md 
+      - 第 1 讲 随机事件与概率:
+        - Math/P&S/1/index.md
+      - 第 2 讲 一元随机变量概率分布:
+        - Math/P&S/2/index.md
+      - 第 3 讲 二元随机变量概率分布:
+        - Math/P&S/3/index.md 
+      - 第 4 讲 常见随机分布的特点:
+        - Math/P&S/4/index.md 
+      - 第 5 讲 随机变量函数概率分布:
+        - Math/P&S/5/index.md
+      - 第 6 讲 大数定律 中心极限定理:
+        - Math/P&S/6/index.md 
+      - 第 7 讲 统计量与抽样分布:
+        - Math/P&S/7/index.md 
+      - 第 8 讲 点估计:
+        - Math/P&S/8/index.md 
+      - 第 9 讲 区间估计与假设检验:
+        - Math/P&S/9/index.md 
   - 物理:
     - Physics/index.md
     - 大学物理Ⅰ:
@@ -33,7 +54,7 @@ nav:
       - 第 1 章 质点运动学:
         - Physics/1/1/index.md
       - 第 2 章 质点动力学:
-        - Physics/1/2/index.md  
+        - Physics/1/2/index.md
       - 第 3 章 刚体力学:
         - Physics/1/3/index.md  
       - 第 4 章 狭义相对论:
@@ -172,6 +193,8 @@ nav:
         - 化工/化学工艺学/期末整理省流版/前半部分/index.md
       - 后半部分:
         - 化工/化学工艺学/期末整理省流版/后半部分/index.md
+  - 计算机:
+    - CS/index.md
 
 
 
@@ -180,7 +203,7 @@ nav:
 
 
 
-site_name: SAVIA的外装代脑
+site_name: Savia的外装代脑
 
 # theme
 theme:
@@ -191,9 +214,8 @@ theme:
     - navigation.indexes # 将 index 页面直接附到小节名上
     - navigation.top # 回到顶部按钮
     - toc.follow # toc 跟随
-    #- navigation.sections
-    - toc.follow
-    - navigation.top
+    # - navigation.sections
+
   language: 'zh'
   palette: 
     # Palette toggle for light mode
