@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 有机反应总结
 
 根据近十年历年卷整理
@@ -7,3 +11,5 @@
     <iframe src="有机化学辅导讲义 下册.pdf#navpanes=0" width="500%" height="600" frameborder="0"></iframe>
     
 </object>
+
+<span id="busuanzi_container_page_pv">本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>

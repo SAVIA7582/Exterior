@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 第 11 章 稳恒电流
 
 <object data="大学物理 第 11 章.pdf" type="application/pdf" width="150%" height="800">
@@ -5,3 +9,5 @@
     <iframe src="大学物理 第 11 章.pdf#navpanes=0" width="500%" height="600" frameborder="0"></iframe>
     
 </object>
+
+<span id="busuanzi_container_page_pv">本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>

@@ -1,3 +1,6 @@
+---
+comments: true
+---
 
 # 第 6 讲 大数定律与中心极限定理
 
@@ -7,6 +10,6 @@
     
 </object>
 
-
+<span id="busuanzi_container_page_pv">本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>
 
 

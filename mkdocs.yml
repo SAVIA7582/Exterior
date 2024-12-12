@@ -109,11 +109,44 @@ nav:
       - Engineering/graphics/index.md
       - 投影理论:
         - Engineering/graphics/1/index.md
-        
       - 辅导讲义:
-        - Engineering/graphics/辅导讲义/index.md
-      - 神秘文件:
-        - Engineering/graphics/神秘文件/index.md
+        - Engineering/graphics/text/index.md
+        - 第 1 讲  三视图的分析与绘制:
+          - Engineering/graphics/text/1/index.md
+        - 第 2 讲  剖视图的分析与绘制:
+          - Engineering/graphics/text/2/index.md 
+        - 第 3 讲  一般形体的标注:
+          - Engineering/graphics/text/3/index.md
+        - 第 4 讲  标准件的绘制:
+          - Engineering/graphics/text/4/index.md
+        - 第 5 讲  零件图的阅读:
+          - Engineering/graphics/text/5/index.md
+      - 历年考试题目:
+        - 2014 - 2015 秋冬:
+          - Engineering/graphics/exam/14-15/index.md
+        - 2015 - 2016 秋冬:
+          - Engineering/graphics/exam/15-16/index.md
+        - 2016 - 2017 秋冬:
+          - Engineering/graphics/exam/16-17/index.md
+        - 2018 - 2019 秋冬:
+          - Engineering/graphics/exam/18-19/index.md
+        - 2019 - 2020 秋冬:
+          - Engineering/graphics/exam/19-20/index.md
+        - 2020 - 2021 秋冬:
+          - Engineering/graphics/exam/20-21/index.md
+      - 历年考试答案:
+        - 2014 - 2015 秋冬:
+          - Engineering/graphics/exam solutions/14-15/index.md
+        - 2015 - 2016 秋冬:
+          - Engineering/graphics/exam solutions/15-16/index.md
+        - 2016 - 2017 秋冬:
+          - Engineering/graphics/exam solutions/16-17/index.md
+        - 2018 - 2019 秋冬:
+          - Engineering/graphics/exam solutions/18-19/index.md
+        - 2019 - 2020 秋冬:
+          - Engineering/graphics/exam solutions/19-20/index.md
+        - 2020 - 2021 秋冬:
+          - Engineering/graphics/exam solutions/20-21/index.md 
     
     - 电工电子学及实验:
       - Engineering/EE/index.md
@@ -211,6 +244,8 @@ nav:
 # theme
 theme:
   name: material
+  custom_dir: overrides
+
   features:
     - navigation.tabs
     - navigation.tracking # 地址栏中的 URL 会随当前位置变化为对应小节的 URL
@@ -219,6 +254,8 @@ theme:
     - toc.follow # toc 跟随
     # - navigation.sections
 
+  comments: true 
+    
   language: 'zh'
   palette: 
     # Palette toggle for light mode
@@ -240,7 +277,9 @@ theme:
         name: Switch to light mode
   font:
     text: Noto Serif SC # Roboto
-    code: Roboto Mono  
+    code: Roboto Mono
+
+  
 
 markdown_extensions:
   - toc:
@@ -292,3 +331,4 @@ extra_javascript:
   - Javascript/mathjax.js
   - assets/js/pdf.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'

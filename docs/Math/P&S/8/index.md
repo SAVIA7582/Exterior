@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # 第 8 讲 点估计
 
 
@@ -6,3 +10,5 @@
     <iframe src="概率论与数理统计 第 8 讲.pdf#navpanes=0" width="500%" height="600" frameborder="0"></iframe>
     
 </object>
+
+<span id="busuanzi_container_page_pv">本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>
