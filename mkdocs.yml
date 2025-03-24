@@ -222,24 +222,24 @@ nav:
         - 化工/化学工艺学/期末整理省流版/前半部分/index.md
       - 后半部分:
         - 化工/化学工艺学/期末整理省流版/后半部分/index.md
-  - 计算机:
-    - CS/index.md
-    - Python程序设计:
-      - CS/Python/index.md
-      - 第 0 讲 编程基础:
-        - CS/Python/0/index.md
-      - 第 1 讲 基本数据类型与表达式:
-        - CS/Python/1/index.md
-      - 第 2 讲 复合数据类型:
-        - CS/Python/2/index.md
-      - 第 3 讲 语句:
-        - CS/Python/3/index.md
-      - 第 4 讲 函数:
-        - CS/Python/4/index.md
-      - 第 5 讲 输入输出与文件:
-        - CS/Python/5/index.md
-      - 第 6 讲 课程常见算法:
-        - CS/Python/6/index.md
+  # - 计算机:
+  #   - CS/index.md
+  #   - Python程序设计:
+  #     - CS/Python/index.md
+  #     - 第 0 讲 编程基础:
+  #       - CS/Python/0/index.md
+  #     - 第 1 讲 基本数据类型与表达式:
+  #       - CS/Python/1/index.md
+  #     - 第 2 讲 复合数据类型:
+  #       - CS/Python/2/index.md
+  #     - 第 3 讲 语句:
+  #       - CS/Python/3/index.md
+  #     - 第 4 讲 函数:
+  #       - CS/Python/4/index.md
+  #     - 第 5 讲 输入输出与文件:
+  #       - CS/Python/5/index.md
+  #     - 第 6 讲 课程常见算法:
+  #       - CS/Python/6/index.md
 
 # theme
 theme:
