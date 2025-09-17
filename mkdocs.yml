@@ -27,6 +27,7 @@ nav:
         - Math/Complex/考点总结/index.md
     
     - 概率论与数理统计:
+
       - 第 0 讲 概念总结:
         - Math/P&S/0/index.md 
       - 第 1 讲 随机事件与概率:
@@ -104,7 +105,6 @@ nav:
         - Physics/2/23/index.md
   - 工程:
     - Engineering/index.md
-
     - 工程图学:
       - Engineering/graphics/index.md
       - 投影理论:
@@ -165,23 +165,32 @@ nav:
   - 化学:
     - Chemistry/index.md
 
-    - 有机化学:
-      - Chemistry/Organic/index.md
-      - 第一部分 有机化学基本理论:
-        - Chemistry/Organic/专题1.md
-        - Chemistry/Organic/专题4.md
-        - Chemistry/Organic/专题5.md
-      - 有机反应总结:
-        - Chemistry/Organic/Reaction/index.md
-
     - 普通化学（乙）:
       - Chemistry/General/index.md
-      - 第 2 章 化学反应原理:
-        - Chemistry/General/2/index.md
+      - 第 1 章 物质的聚集状态:
+        - 第 1 讲 物质的聚集状态:
+          - Chemistry/General/1/index.md
+      - 第 2 章 化学反应的一般规律:
+        - 第 2 讲 化学反应的计量变化与能量变化:
+          - Chemistry/General/2/index.md
+        - 第 3 讲 化学反应的方向和限度:
+          - Chemistry/General/3/index.md
+        - 第 4 讲 化学反应的速率:
+          - Chemistry/General/4/index.md
       - 第 3 章 物质结构基础:
-        - Chemistry/General/3/index.md
+        - 第 5 讲 原子结构:
+          - Chemistry/General/5/index.md
+        - 第 6 讲 分子结构:
+          - Chemistry/General/6/index.md
+        - 第 7 讲 配位化合物:
+          - Chemistry/General/7/index.md
       - 第 4 章 溶液中的化学平衡:
-        - Chemistry/General/4/index.md
+        - 第 8 讲 电离酸碱平衡:
+          - Chemistry/General/8/index.md
+        - 第 9 讲 沉淀溶解平衡与配位解离平衡:
+          - Chemistry/General/9/index.md
+        - 第 10 讲 氧化还原平衡与电化学:
+          - Chemistry/General/10/index.md
 
     - 无机化学（化工学院）:
       - Chemistry/Inorganic/index.md
@@ -202,10 +211,40 @@ nav:
       - 第 7 章 固体结构:
         - Chemistry/Inorganic/7/index.md
       - 第 8 章 配位化合物:
-        - Chemistry/Inorganic/8/index.md      
+        - Chemistry/Inorganic/8/index.md
+        
+    - 有机化学:
+      - Chemistry/Organic/index.md
+      - 第一部分 有机化学基本理论:
+        - Chemistry/Organic/专题1.md
+        - Chemistry/Organic/专题4.md
+        - Chemistry/Organic/专题5.md
+      - 有机反应总结:
+        - Chemistry/Organic/Reaction/index.md
+
+    - 物理化学（中文）:
+      - 第 0 讲  物理化学概论与量子力学基础:
+        - Chemistry/Physical_C/0/index.md
+      - 第 1 讲  能量量子化与单分子能级:
+        - Chemistry/Physical_C/1/index.md
+      - 第 2 讲  从单分子到多分子：统计热力学:
+        - Chemistry/Physical_C/2/index.md
+      - 第 3 讲  从分子性质到宏观可观测量:
+        - Chemistry/Physical_C/3/index.md
+      - 第 4 讲  热力学第一定律:
+        - Chemistry/Physical_C/4/index.md
+    
+        
   - 化工:
     - 化工/index.md
-
+    - 化工原理:
+      - 化工/化工原理/index.md
+      - 第 1 讲 流体力学基础:
+        - 化工/化工原理/1/index.md
+      - 第 2 讲 流体输送机械:
+        - 化工/化工原理/2/index.md
+      - 第 9 讲 蒸馏:
+        - 化工/化工原理/9/index.md
     - 化学反应工程:
       - 化工/化学反应工程/index.md
       - PART 1 理想反应器 均相反应:
