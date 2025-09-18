@@ -1,5 +1,11 @@
-# 第四部分 电机学及控制
+---
+comments: true
+---
 
-<object data="电工电子学及实验辅导讲义 电机学及控制部分.pdf" type="application/pdf" width="150%" height="800">
-    <embed src="电工电子学及实验辅导讲义 电机学及控制部分.pdf" type="application/pdf" />
-</object>
+
+![？怎么没有图片](../figures/EE2003F_页面_22.png)
+![？怎么没有图片](../figures/EE2003F_页面_23.png)
+
+
+
+<span id="busuanzi_container_page_pv">本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>

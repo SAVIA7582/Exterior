@@ -1,10 +1,14 @@
 site_name: Savia的外装代脑
 
 nav:
+  
   - 主页:
+    
     - index.md
+    
     - 往期更新:
       - 往期更新.md
+  
   - 数学:
     - Math/index.md
     - 复变函数与积分变换:
@@ -48,6 +52,7 @@ nav:
         - Math/P&S/8/index.md 
       - 第 9 讲 区间估计与假设检验:
         - Math/P&S/9/index.md
+  
   - 物理:
     - Physics/index.md
     - 大学物理Ⅰ:
@@ -103,24 +108,30 @@ nav:
         - Physics/2/22/index.md
       - 第 23 章 激光和固体能带:
         - Physics/2/23/index.md
+  
   - 工程:
+    
     - Engineering/index.md
+
     - 工程图学:
       - Engineering/graphics/index.md
-      - 投影理论:
-        - Engineering/graphics/1/index.md
-      - 辅导讲义:
+      - 通关攻略:
         - Engineering/graphics/text/index.md
-        - 第 1 讲  三视图的分析与绘制:
-          - Engineering/graphics/text/1/index.md
-        - 第 2 讲  剖视图的分析与绘制:
-          - Engineering/graphics/text/2/index.md 
-        - 第 3 讲  一般形体的标注:
-          - Engineering/graphics/text/3/index.md
-        - 第 4 讲  标准件的绘制:
-          - Engineering/graphics/text/4/index.md
-        - 第 5 讲  零件图的阅读:
-          - Engineering/graphics/text/5/index.md
+        - 第 0 讲  基本绘图（含A3作业教学）:
+          - Engineering/graphics/0/index.md
+        - 第 1 讲  点、线、面的投影:
+          - Engineering/graphics/1/index.md
+        - (以下是旧版):
+          - 第 1 讲  三视图的分析与绘制:
+            - Engineering/graphics/text/1/index.md
+          - 第 2 讲  剖视图的分析与绘制:
+            - Engineering/graphics/text/2/index.md 
+          - 第 3 讲  一般形体的标注:
+            - Engineering/graphics/text/3/index.md
+          - 第 4 讲  标准件的绘制:
+            - Engineering/graphics/text/4/index.md
+          - 第 5 讲  零件图的阅读:
+            - Engineering/graphics/text/5/index.md
       - 历年考试题目:
         - 2014 - 2015 秋冬:
           - Engineering/graphics/exam/14-15/index.md
@@ -151,44 +162,88 @@ nav:
     - 电工电子学及实验:
       - Engineering/EE/index.md
       - 第 1 部分 电路原理:
-        - Engineering/EE/1/index.md
         - 第 1 节 电路基本概念与定律:
-          - Engineering/EE/1/1-1/index.md
-      - 第 2 部分 模拟电子技术:
-        - Engineering/EE/2/index.md
-        - 第 1 节 常用半导体器件:
-          - Engineering/EE/2/2-1/index.md
-      - 第 3 部分 数字电子技术:
-        - Engineering/EE/3/index.md
-      - 第 4 部分 电机学及控制:
-        - Engineering/EE/4/index.md
-  - 化学:
-    - Chemistry/index.md
+          - Engineering/EE/1/index.md
+        - 第 2 讲 直流电路分析:
+          - Engineering/EE/2/index.md
+        - 第 3 讲 正弦交流电路分析:
+          - Engineering/EE/3/index.md 
+        - 第 4 讲 瞬态电路分析:
+          - Engineering/EE/4/index.md
 
+      - 第 2 部分 模拟电子技术:
+        - 第 5 讲 常用半导体器件:
+          - Engineering/EE/5/index.md
+        - 第 6 讲 分立元件放大电路:
+          - Engineering/EE/6/index.md
+        - 第 7 讲 集成运算放大电路:
+          - Engineering/EE/7/index.md
+        - 第 8 讲 运算电路与正弦振荡电路:
+          - Engineering/EE/8/index.md
+        - 第 9 讲 功率电子电路:
+          - Engineering/EE/9/index.md  
+      - 第 3 部分 数字电子技术:
+        - 第 10 讲 门电路:
+          - Engineering/EE/10/index.md
+        - 第 11 讲 组合逻辑电路:
+          - Engineering/EE/11/index.md  
+        - 第 12 讲 时序逻辑电路:
+          - Engineering/EE/12/index.md 
+        - 第 13 讲 波形变换电路:
+          - Engineering/EE/13/index.md 
+      - 第 4 部分 电机学及控制:
+        - 第 14 讲 磁路与变压器:
+          - Engineering/EE/14/index.md
+        - 第 15 讲 三相异步电动机:
+          - Engineering/EE/15/index.md  
+        - 第 16 讲 电气控制电路:
+          - Engineering/EE/16/index.md 
+        - 第 17 讲 安全用电:
+          - Engineering/EE/17/index.md 
+  
+  - 化学:
+    
+    - Chemistry/index.md
+    
     - 普通化学（乙）:
+      
       - Chemistry/General/index.md
+
       - 第 1 章 物质的聚集状态:
+        
         - 第 1 讲 物质的聚集状态:
           - Chemistry/General/1/index.md
+      
       - 第 2 章 化学反应的一般规律:
+        
         - 第 2 讲 化学反应的计量变化与能量变化:
           - Chemistry/General/2/index.md
+        
         - 第 3 讲 化学反应的方向和限度:
           - Chemistry/General/3/index.md
+       
         - 第 4 讲 化学反应的速率:
           - Chemistry/General/4/index.md
+      
       - 第 3 章 物质结构基础:
+        
         - 第 5 讲 原子结构:
           - Chemistry/General/5/index.md
+        
         - 第 6 讲 分子结构:
           - Chemistry/General/6/index.md
+        
         - 第 7 讲 配位化合物:
           - Chemistry/General/7/index.md
+      
       - 第 4 章 溶液中的化学平衡:
+        
         - 第 8 讲 电离酸碱平衡:
           - Chemistry/General/8/index.md
+        
         - 第 9 讲 沉淀溶解平衡与配位解离平衡:
           - Chemistry/General/9/index.md
+        
         - 第 10 讲 氧化还原平衡与电化学:
           - Chemistry/General/10/index.md
 
@@ -223,28 +278,44 @@ nav:
         - Chemistry/Organic/Reaction/index.md
 
     - 物理化学（中文）:
+      
       - 第 0 讲  物理化学概论与量子力学基础:
         - Chemistry/Physical_C/0/index.md
+      
       - 第 1 讲  能量量子化与单分子能级:
         - Chemistry/Physical_C/1/index.md
+      
       - 第 2 讲  从单分子到多分子：统计热力学:
         - Chemistry/Physical_C/2/index.md
+      
       - 第 3 讲  从分子性质到宏观可观测量:
         - Chemistry/Physical_C/3/index.md
+      
       - 第 4 讲  热力学第一定律:
         - Chemistry/Physical_C/4/index.md
     
+    - 物理化学（英文）:
+      
+      - Focus 1 气体的性质:
+        - Chemistry/Physical_E/1/index.md
         
   - 化工:
+    
     - 化工/index.md
+    
     - 化工原理:
+      
       - 化工/化工原理/index.md
+      
       - 第 1 讲 流体力学基础:
         - 化工/化工原理/1/index.md
+      
       - 第 2 讲 流体输送机械:
         - 化工/化工原理/2/index.md
+      
       - 第 9 讲 蒸馏:
         - 化工/化工原理/9/index.md
+    
     - 化学反应工程:
       - 化工/化学反应工程/index.md
       - PART 1 理想反应器 均相反应:
@@ -255,12 +326,14 @@ nav:
         - 化工/化学反应工程/PART 3/index.md
       - PART 5 生化反应:
         - 化工/化学反应工程/PART 5/index.md
+    
     - 化学工艺学:
       - 化工/化学工艺学/index.md
       - 前半部分:
         - 化工/化学工艺学/期末整理省流版/前半部分/index.md
       - 后半部分:
         - 化工/化学工艺学/期末整理省流版/后半部分/index.md
+  
   # - 计算机:
   #   - CS/index.md
   #   - Python程序设计:
@@ -317,8 +390,6 @@ theme:
   font:
     text: Noto Serif SC # Roboto
     code: Roboto Mono
-
-  
 
 markdown_extensions:
   - toc:
