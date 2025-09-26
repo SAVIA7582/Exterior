@@ -298,6 +298,15 @@ nav:
       
       - Focus 1 气体的性质:
         - Chemistry/Physical_E/1/index.md
+      
+      - Focus 2 热力学第一定律:
+        - Chemistry/Physical_E/2/index.md
+
+      - Focus 3 热力学第二定律:
+        - Chemistry/Physical_E/3/index.md
+      
+      - Focus 4 纯物质的相平衡:
+        - Chemistry/Physical_E/4/index.md
         
   - 化工:
     
@@ -390,6 +399,9 @@ theme:
   font:
     text: Noto Serif SC # Roboto
     code: Roboto Mono
+
+plugins:
+  - macros
 
 markdown_extensions:
   - toc:

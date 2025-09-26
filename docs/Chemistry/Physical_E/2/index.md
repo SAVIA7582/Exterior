@@ -3,9 +3,9 @@ comments: true
 ---
 
 
-![？怎么没有图片](figures/《物理化学》新体系_页面_05.png)
-![？怎么没有图片](figures/《物理化学》新体系_页面_06.png)
-![？怎么没有图片](figures/《物理化学》新体系_页面_07.png)
+{% for i in range(4, 8 + 1) %}
+![图{{ i }}](../images/CHEM2003F_页面_{{"%02d"|format(i)}}.png)
+{% endfor %}
 
 
 <span id="busuanzi_container_page_pv">本文总阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>
