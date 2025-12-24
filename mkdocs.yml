@@ -170,7 +170,6 @@ nav:
           - Engineering/EE/3/index.md 
         - 第 4 讲 瞬态电路分析:
           - Engineering/EE/4/index.md
-
       - 第 2 部分 模拟电子技术:
         - 第 5 讲 常用半导体器件:
           - Engineering/EE/5/index.md
@@ -200,7 +199,9 @@ nav:
           - Engineering/EE/16/index.md 
         - 第 17 讲 安全用电:
           - Engineering/EE/17/index.md 
-  
+      - 下载:
+        - Engineering/EE/FULL/index.md
+
   - 化学:
     
     - Chemistry/index.md
