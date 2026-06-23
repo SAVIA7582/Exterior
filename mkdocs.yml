@@ -10,7 +10,15 @@ nav:
       - 往期更新.md
   
   - 数学:
+
     - Math/index.md
+
+    - 微积分Ⅱ:
+      - Math/Calculus 2/index.md
+    
+    - 常微分方程:
+      - Math/ODE/index.md
+
     - 复变函数与积分变换:
       - Math/Complex/index.md
       - 第 1 章 复数:
