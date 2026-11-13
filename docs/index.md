@@ -1,16 +1,72 @@
 # 欢迎来到Savia的外装代脑！
 
+这里是分享Savia珍藏多年的学习资料的地方，有可能会发一些个人的东西。挑一个学科开始，或者直接使用顶部的导航栏和搜索。
+
+## 快速导航
+
+<div class="grid cards" markdown>
+
+-   [![数学](assets/cards/math.webp){ .card-cover }](Math/index.md)
+
+    :material-calculator-variant:{ .middle } __数学__
+
+    ---
+
+    公式、推导与题型整理
+
+    [:octicons-arrow-right-24: 进入数学](Math/index.md)
+
+-   [![物理](assets/cards/physics.webp){ .card-cover }](Physics/index.md)
+
+    :material-atom:{ .middle } __物理__
+
+    ---
+
+    从力学到量子，课堂笔记
+
+    [:octicons-arrow-right-24: 进入物理](Physics/index.md)
+
+-   [![工程](assets/cards/engineering.webp){ .card-cover }](Engineering/index.md)
+
+    :material-pencil-ruler:{ .middle } __工程__
+
+    ---
+
+    工程图学与电工电子
+
+    [:octicons-arrow-right-24: 进入工程](Engineering/index.md)
+
+-   [![化学](assets/cards/chemistry.webp){ .card-cover }](Chemistry/index.md)
+
+    :material-flask:{ .middle } __化学__
+
+    ---
+
+    无机、有机与物理化学
+
+    [:octicons-arrow-right-24: 进入化学](Chemistry/index.md)
+
+-   [![化工](assets/cards/chemical.webp){ .card-cover }](化工/index.md)
+
+    :material-factory:{ .middle } __化工__
+
+    ---
+
+    三传一反与化学工艺
+
+    [:octicons-arrow-right-24: 进入化工](化工/index.md)
+
+</div>
+
+## 使用说明
+
 !!! warning "温馨提示"
-    
+
     * 外装代脑的所有内容将逐步替换为图片，pdf仅提供合集
 
     * 目前外装代脑的大部分内容是以pdf阅读器内嵌的形式呈现的，在PC端用Chrome浏览器打开才能看到
 
     * 目前更新了部分pdf嵌入的方式（手机也能看到），ios由于自身原因，只会显示pdf的第一页
-
-
-这里是分享Savia珍藏多年的学习资料的地方，有可能会发一些个人的东西
-
 
 !!! warning "2025.11.11 科研任务攻坚中，更新下以前的存货"
 
@@ -26,9 +82,6 @@
 !!! info "冷知识"
 
     《某科学的超电磁炮》是《魔法禁书目录》的外传，bilibili的名字以及许多设定都来自这个系列
-
-    
-    
 
 * 简而言之就是食蜂额外拥有的外部大脑，可以由她操纵发挥更强的能力。如果我有外装代脑，我一定会把我学过的东西都装进去，需要的时候直接读取
 

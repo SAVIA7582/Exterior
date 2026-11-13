@@ -1,3 +1,5 @@
-sed -i 's/{\% if page.edit_url \%}/<div style="float:right"><span id="busuanzi_container_page_pv"><font size="2" color="grey">本文总阅读量<span id="busuanzi_value_page_pv"><\/span>次<\/font><\/span><\/div>{\% if page.edit_url \%}/g' venv/Lib/material/base.html
+#!/usr/bin/env bash
+set -euo pipefail
 
-mkdocs build
+# 本地构建：默认使用当前环境的 mkdocs，可用 PYTHON 指定解释器
+"${PYTHON:-python}" -m mkdocs build

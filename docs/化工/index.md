@@ -1,5 +1,35 @@
 # 化工专业课
 
+## 课程
+
+<div class="grid cards" markdown>
+
+-   :material-pipe-valve:{ .lg .middle } __化工原理__
+
+    ---
+
+    流体力学、传热、传质与分离
+
+    [:octicons-arrow-right-24: 开始学习](化工原理/index.md)
+
+-   :material-recycle-variant:{ .lg .middle } __化学反应工程__
+
+    ---
+
+    理想反应器、非理想流动与生化反应
+
+    [:octicons-arrow-right-24: 开始学习](化学反应工程/index.md)
+
+-   :material-factory:{ .lg .middle } __化学工艺学__
+
+    ---
+
+    石油、无机、高分子与精细化工
+
+    [:octicons-arrow-right-24: 开始学习](化学工艺学/index.md)
+
+</div>
+
 ## 开发进度
 
 ### 化工原理

@@ -1,0 +1,19 @@
+/* 标题加粗：Material 默认 h1/h2 为 300、h3 为 400 */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-weight: 700;
+}
+
+/* 首页学科卡片的配图 */
+.md-typeset .grid.cards .card-cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 0.4rem;
+  margin: 0;
+  background: var(--md-default-fg-color--lightest);
+}

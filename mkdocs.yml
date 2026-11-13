@@ -15,9 +15,13 @@ nav:
 
     - 微积分Ⅱ:
       - Math/Calculus 2/index.md
+      - 讲义:
+        - Math/Calculus 2/讲义.md
     
     - 常微分方程:
       - Math/ODE/index.md
+      - 讲义:
+        - Math/ODE/讲义.md
 
     - 复变函数与积分变换:
       - Math/Complex/index.md
@@ -39,6 +43,8 @@ nav:
         - Math/Complex/考点总结/index.md
     
     - 概率论与数理统计:
+
+      - Math/P&S/index.md
 
       - 第 0 讲 概念总结:
         - Math/P&S/0/index.md 
@@ -290,6 +296,8 @@ nav:
 
     - 物理化学（中文）:
       
+      - Chemistry/Physical_C/index.md
+
       - 第 0 讲  物理化学概论与量子力学基础:
         - Chemistry/Physical_C/0/index.md
       
@@ -304,9 +312,20 @@ nav:
       
       - 第 4 讲  热力学第一定律:
         - Chemistry/Physical_C/4/index.md
+
+      - 第 5 讲  热力学第二定律:
+        - Chemistry/Physical_C/5/index.md
+
+      - 第 6 讲  可逆过程热力学基本框架:
+        - Chemistry/Physical_C/6/index.md
+
+      - 第 7 讲  分子间相互作用:
+        - Chemistry/Physical_C/7/index.md
     
     - 物理化学（英文）:
       
+      - Chemistry/Physical_E/index.md
+
       - Focus 1 气体的性质:
         - Chemistry/Physical_E/1/index.md
       
@@ -386,8 +405,6 @@ theme:
     - toc.follow # toc 跟随
     # - navigation.sections
 
-  comments: true 
-    
   language: 'zh'
   palette: 
     # Palette toggle for light mode
@@ -408,16 +425,19 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   font:
-    text: Noto Serif SC # Roboto
+    text: Noto Sans SC # Roboto
     code: Roboto Mono
 
 plugins:
+  - search
   - macros
 
 markdown_extensions:
   - toc:
       permalink: true # link for each title
-      slugify: !!python/name:pymdownx.slugs.uslugify # enable Unicode link
+      slugify: !!python/object/apply:pymdownx.slugs.slugify # enable Unicode link
+        kwds:
+          case: lower
   - admonition
   - abbr
   - attr_list
@@ -434,8 +454,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.keys
@@ -459,6 +479,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css
 
 extra_javascript:
   - Javascript/mathjax.js
